@@ -4,7 +4,7 @@ import random
 
 class Account:
   account_count = 0
-
+ 
   def __init__(self, name, balance):
     self.name = name
     self.balance = balance
