@@ -8,3 +8,4 @@ class 차:
 
 class 자전차(차):
     pass
+ 
