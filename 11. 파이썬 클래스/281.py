@@ -9,3 +9,4 @@ class 차:
 car = 차(2, 1000)
 print(car.바퀴)
 print(car.가격)
+ 
